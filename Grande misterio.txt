@@ -1,3 +1,15 @@
 git add .
 git commit -m " nome da atualização "
 git push
+
+ver historico(git reflog)
+Navegar entre versões (git reset --hard {ID da versão})
+
+
+branchs 
+
+git branch
+git branch (nome)
+git checkout (nome) {para selecionar}
+
+33:41
